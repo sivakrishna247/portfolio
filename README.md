@@ -16,21 +16,11 @@ I have programming experience in *Python* and *Java*, and I’m building tools t
 
 ## 📂 Projects  
 
-### 🔑 [Password Strength Checker (Python)](./projects/password-checker)  
-A Python script that checks if a password is *weak, moderate, or strong* using regex rules.  
-> Skills: Python, Regex, Security basics  
+🔹  Grocery Store Management System in Python (Console-Based).
 
----
 
-### 🌐 [Simple Port Scanner (Python)](./projects/port-scanner)  
-A lightweight tool that scans common network ports and reports if they are open.  
-> Skills: Python, Networking, Sockets, Cybersecurity fundamentals  
+🔹  Deepfake Detection System Using Deep Learning and Facial Forensics.
 
----
-
-### 🔒 [Encryption & Decryption Tool (Java)](./projects/encryption-tool)  
-A Java program that encrypts and decrypts text using *AES encryption*.  
-> Skills: Java, Cryptography, Secure programming  
 
 ---
 
